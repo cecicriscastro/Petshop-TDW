@@ -1,0 +1,208 @@
+* { 
+    font-family: 'roboto', sans-serif;
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;  
+    
+}
+
+
+.top {
+    width: 1024px;
+    height: 20px;
+    display: flex;
+    background-color: #222222;
+    color: #F3F3F3;
+    font-family: Roboto;
+    font-size: 10px;
+    
+} 
+ .ofertas {
+    padding: 4px 654px 4px 90px ;
+}
+
+
+ .idioma {
+    padding: 4px 15px 4px 2px;
+    /* text-align: right; */
+    width: 46px;
+    height: 12px;
+    top: 4px;
+    left: 90px;
+    border: 1px 0px 0px 0px;
+ }
+
+ .valor {
+    padding: 4px 2px 4px 15px ;
+    /* text-align: right; */
+    width: 26px;
+    height: 12px;
+    top: 4px;
+    left: 50px;
+ }
+ 
+ 
+ header{
+   position: absolute;
+   display: flex;
+    width: 1024px;
+    height: 62px;
+    top: 20px;
+    background: #F0A83E;
+}
+header nav {
+     
+     width: 343px;
+     height: 15px;
+     top: 43px;
+     left: 641px;
+     gap: 0px;
+     opacity: 0px;
+     
+}   
+
+header nav ul {
+    display: flex;
+     
+}
+
+header nav ul li {
+               list-style: none;
+               padding: 23px 20px 24px 20px;
+               
+              }
+
+
+.imag {
+        padding: 19px 374px 20px 40px;
+ }
+
+ 
+  
+.imagen-comederos {
+    position: absolute; 
+    width: 1024px;
+    height: 409px;
+    top: 81px;
+    
+ }
+ h2{
+    background: #FFFFFF;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.16px;
+
+
+ }
+
+ .cartel {
+    position: absolute;
+    width: 365px;
+    height: 75px;
+    top: 237px;
+    left: 648px;     
+ }
+
+ .descuentos {
+   text-align: center;
+   padding: 22px 83px 22px 83px;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 18.75px;
+ }
+ 
+ .btn {
+    position: absolute;
+    width: 141px;
+    height: 49px;
+    top: 334px;
+    left: 767px;
+    border-radius: 5px;
+    background: #F0A83E;
+ }
+
+main {
+    /* position: relative;  */
+   width: 1024px;
+   height: 951px;
+   top: 81px;
+   
+}
+
+
+
+
+
+
+
+
+
+.patita{
+    position: absolute;
+    width: 67px;
+    height: 71px;
+    top: 510px;
+    left: 479px;
+ } 
+
+/*  
+ .productos-destacados{
+    position: absolute;
+    width: 406px;
+    height: 47px;
+    top: 586px;
+    left: 309px;
+    font-size: 37px;
+    padding: 586 px 300px 1174px 300px; 
+    font-weight: 700;
+    color: #3C2313;
+ }
+
+  nav ul {
+    display: flex;
+    position: absolute;
+    list-style: none;
+    width: 267px;
+    height: 18px;
+    top: 653px;
+    left: 380px;
+    /* padding: 24px 20px 24px 20px;
+ } */
+    
+
+  /* .guion{
+    
+    font-size: 15px;
+    font-weight: 400;
+    width: 5px;
+height: 18px;
+top: 653px;
+left: 577px;
+
+ }  */
+
+ /* .tarjetas{
+    
+    position: absolute;
+    display: flex;
+    width: 265px;
+    height: 268.86px;
+    top: 720px;
+    left: 95px; 
+ }
+
+ .texto-tarjetas{
+    
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    width: 160.54px;
+    height: 19.64px;
+
+
+
+
+ } */
